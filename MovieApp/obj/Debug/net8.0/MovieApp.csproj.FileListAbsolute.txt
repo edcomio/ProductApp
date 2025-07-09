@@ -1,0 +1,14 @@
+D:\New folder\MovieApp\MovieApp\bin\Debug\net8.0\MovieApp.exe
+D:\New folder\MovieApp\MovieApp\bin\Debug\net8.0\MovieApp.deps.json
+D:\New folder\MovieApp\MovieApp\bin\Debug\net8.0\MovieApp.runtimeconfig.json
+D:\New folder\MovieApp\MovieApp\bin\Debug\net8.0\MovieApp.dll
+D:\New folder\MovieApp\MovieApp\bin\Debug\net8.0\MovieApp.pdb
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.AssemblyInfoInputs.cache
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.AssemblyInfo.cs
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.csproj.CoreCompileInputs.cache
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.dll
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\refint\MovieApp.dll
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.pdb
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.genruntimeconfig.cache
+D:\New folder\MovieApp\MovieApp\obj\Debug\net8.0\ref\MovieApp.dll
