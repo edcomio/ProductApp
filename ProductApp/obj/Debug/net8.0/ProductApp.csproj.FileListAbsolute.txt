@@ -1,0 +1,14 @@
+D:\New folder\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.exe
+D:\New folder\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+D:\New folder\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+D:\New folder\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.dll
+D:\New folder\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.dll
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+D:\New folder\ProductApp\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
